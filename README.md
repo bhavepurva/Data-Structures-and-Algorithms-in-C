@@ -4,7 +4,19 @@ Array operations:
 
     1.Insert
     
+        1.Start
+        
+        2.Specific position
+        
+        3.End
+    
     2.Delete
+    
+        1.Start
+        
+        2.Specific position
+        
+        3.End
     
     3.Print
   
@@ -27,8 +39,20 @@ Linked List
     2.Remove duplicates from a Linked List
     
     3.Insert a node in Linked List
+        
+        1.Start
+        
+        2.Specific position
+        
+        3.End
     
     4.Delete a node from Linked List
+    
+        1.Start
+        
+        2.Specific position
+        
+        3.End
     
     5.Reverse a Linked List
   
@@ -37,8 +61,20 @@ Doubly Linked List
     1.Create a Doubly Linked List
 
     2.Insert in Doubly Linked List
+    
+        1.Start
+        
+        2.Specific position
+        
+        3.End
 
     3.Delete from Doubly Linked List
+    
+        1.Start
+        
+        2.Specific position
+        
+        3.End
 
     4.Reverse a Doubly Linked List
 
