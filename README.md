@@ -1,7 +1,5 @@
 # Data-Structures-and-Algorithms-in-C
 
-# Data-Structures-and-Algorithms-in-C
-
 Array operations:
 
     1.Insert
