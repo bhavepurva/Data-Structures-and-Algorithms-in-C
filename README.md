@@ -117,6 +117,20 @@ Sorting techniques
     2.Insertion sort
     
     3.Selection sort
+    
+Graph
+
+    1.Create
+    
+    2.Add edges
+    
+    3.Display
+    
+        1.Linked list for each node
+        
+        2.DFS
+        
+        3.BFS
 
   
   
