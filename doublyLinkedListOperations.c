@@ -126,18 +126,6 @@ struct node * delete(struct node *head){
 
 
 
-struct node * reverse(struct node * head){
-    temp=head;
-    while(temp->next!=0){
-        temp=temp->next;
-    }
-    while(temp!=0){
-        printf("%d ",temp->data);
-        temp=temp->prev;
-    }
-    return 0;
-}
-
 struct node *search(struct node * head){
     int search,index;
     index=1;
@@ -170,7 +158,6 @@ void main(){
     
     }
     printf("\n");
-    reverse(head);
     
      printf("\ndo you want to delete? ");
     scanf("%d",&choice);
