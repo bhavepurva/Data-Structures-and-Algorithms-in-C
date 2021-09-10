@@ -31,6 +31,16 @@ Stack
     4.isFull
 
     5.Display stack
+    
+Queue
+
+    1.Enqueue
+
+    2.Dequeuq
+
+    3.Peek
+
+    4.Display queue
   
 Linked List
 
