@@ -99,9 +99,7 @@ Doubly Linked List
         
         3.End
 
-    4.Reverse a Doubly Linked List
-
-    5.Searching in Doubly Linked List
+    4.Searching in Doubly Linked List
   
 Binary Trees
 
