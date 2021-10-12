@@ -36,7 +36,7 @@ Queue
 
     1.Enqueue
 
-    2.Dequeuq
+    2.Dequeue
 
     3.Peek
 
